@@ -27,12 +27,7 @@
 .OLIVER{
     color:rgb(139, 0, 23);
 }
-.name:hover{
-    border: ridge;   
- display: inline;
- text-shadow: 8px 8px 8px rgb(0, 255, 255);
- border: black;
-}
+
 div{ margin-top: 40px;
  margin-bottom: 40px;
  margin-right: 40px;
@@ -53,6 +48,7 @@ tr:nth-child(odd){
 .name:hover{
  text-shadow:2px 4px 6px peru;
  border: solid 2px;
+ border-style:ridge;
 }
 
 
